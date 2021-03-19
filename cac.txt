@@ -1,5 +1,4 @@
 CAP.PA
-UG.PA
 HO.PA
 BN.PA
 ORA.PA
